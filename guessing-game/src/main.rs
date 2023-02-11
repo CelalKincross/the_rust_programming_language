@@ -22,7 +22,10 @@ fn main() {
 
         // shadow the guess variable// shadowing allows you to use the guess variable without creating another unique variable and having two guess variables located in memory
 
-        let guess: u32 = guess.trim().parse().expect("Please enter a number!");
+        let guess: u32 = match guess.trim().parse() {
+            Ok(num) => num,
+            Err(_) => continue,
+        };
 
         match guess.cmp(&secret_number) {
             Ordering::Less => println!("Too small!"),
