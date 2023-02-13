@@ -32,6 +32,8 @@
 1. Hello World!
 2. Hello Cargo!
 3. Guessing Game
+4. Variables
+5. Data Types
 
 ## Screenshots
 to follow...
