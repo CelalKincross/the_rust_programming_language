@@ -6,10 +6,9 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
+* [Features/Projects](#features)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
-<!-- * [Usage](#usage) -->
+* [Setup](#setup) <!-- * [Usage](#usage) -->
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -29,9 +28,10 @@
 - Tech 1 - Rust
 
 
-## Features
-.. to follow after projects
-
+## Features/Projects
+1. Hello World!
+2. Hello Cargo!
+3. Guessing Game
 
 ## Screenshots
 to follow...
