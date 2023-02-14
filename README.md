@@ -80,3 +80,12 @@ Created by [@celalkincross](https://celalkincross.github.io/) - feel free to con
 ## Resources
 
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
+
+
+## Notes
+Security Issues to consider in other languages:
+
+Possible exploits in other languages:
+--open comments are allowed in other languages--can that lead to possible exploits
+--array of non fixed sizes and types are also common in other languages and can be an exploit
+--other lower level languages allow arrays to be accessed beyond their lenght and will return whatever is at the location
