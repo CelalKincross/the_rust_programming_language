@@ -34,6 +34,7 @@
 3. Guessing Game
 4. Variables
 5. Data Types
+6. Functions
 
 ## Screenshots
 to follow...
