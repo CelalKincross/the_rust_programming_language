@@ -39,6 +39,7 @@
     - Functions
     - Comments (not documented)
     - Control Flow
+    - Celsius to Fahrenheit Practice
 4. Understanding Ownership
 
 ... in process of completing
