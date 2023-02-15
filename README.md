@@ -29,12 +29,19 @@
 
 
 ## Features/Projects
-1. Hello World!
-2. Hello Cargo!
-3. Guessing Game
-4. Variables
-5. Data Types
-6. Functions
+1. Introduction
+    - Hello World!
+    - Hello Cargo!
+2. Progamming the Guessing Game
+3. Common Programming Concepts
+    - Variables
+    - Data Types
+    - Functions
+    - Comments (not documented)
+    - Control Flow
+4. Understanding Ownership
+
+... in process of completing
 
 ## Screenshots
 to follow...
