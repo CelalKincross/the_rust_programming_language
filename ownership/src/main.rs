@@ -164,3 +164,17 @@ fn takes_and_gives_back(a_string: String) -> String { // a_string comes into
 // Even though s2 is never used or returned in move_two, the compiler still considers s2 to be moved when calling move_two.
 
 // So as you're learning about ownership and Rust, keep in mind that the compiler's safety checks often assume the worst case about your code. Part of learning to write Rust is convincing the compiler that the worst case is still safe!
+
+
+// Stack
+fn main5() {
+  let n = 5;    //L1
+  let y = plus_one(n);  //L2
+  println!("The value of y is: {y}");  //L3
+}
+
+fn plus_one(x: i32) -> i32 {
+  x + 1
+}
+
+// Array s--> Heap
